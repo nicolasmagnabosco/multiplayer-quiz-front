@@ -20,7 +20,7 @@ npm run dev
 
 🔗 Connection
 
-This frontend connects to the [Backend API]()
+This frontend connects to the [Backend API](github.com/nicolasmagnabosco/multiplayer-quiz-back)
 
 🛠 Tech Stack
 
